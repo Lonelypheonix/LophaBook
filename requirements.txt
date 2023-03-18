@@ -1,0 +1,6 @@
+customtkinter
+PyPDF2
+pyttsx3
+pygame
+wave
+os
