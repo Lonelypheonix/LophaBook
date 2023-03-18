@@ -1,3 +1,7 @@
+#Python tool to convert pdf into audioand an inbuilt player to play the book
+
+#built by Lonely Pheonix
+
 import customtkinter as tk
 from customtkinter import *
 import PyPDF2
