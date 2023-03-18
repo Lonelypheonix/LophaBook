@@ -1,4 +1,4 @@
-# lophaBook
+# LophaBook
 Python tool to convert Pdf to audiobook.
 
 ### What you can do through this code? ###
